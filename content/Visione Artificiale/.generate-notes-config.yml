@@ -1,0 +1,89 @@
+---
+# Configurazione per la generazione sistematica di appunti VA
+# Questo file definisce il template di stile per mantenere coerenza tra tutti i moduli
+
+template:
+  frontmatter:
+    tags:
+      - visione-artificiale
+      - fondamenti
+
+  structure:
+    - definizioni_fondamentali
+    - concetti_chiave
+    - applicazioni_pratiche
+    - prossimi_argomenti
+
+style_guidelines:
+  # GENERALE
+  emojis: false
+  language: italiano
+  tone: intuitivo-pratico
+
+  # SEZIONI
+  use_callouts: true
+  callout_types:
+    - info: definizioni principali
+    - note: approfondimenti concettuali
+    - example: esempi pratici
+    - warning: sfide/difficoltà
+    - danger: punti critici
+    - tip: best practices
+
+  # CONTENUTO
+  include_examples: true
+  examples_level: semplice
+  include_use_cases: true
+  include_pros_cons: true
+  focus_exam: true  # Evita approfondimenti inutili per l'esame
+
+  # LINK OBSIDIAN
+  use_wikilinks: true
+  use_block_ids: true
+  internal_links: "auto"  # Collega ai moduli correlati
+
+# SEZIONI TIPO PER OGNI MODULO
+standard_sections:
+  - name: "Definizioni Fondamentali"
+    format: "h2"
+    subsections:
+      - term: "concetto_principale"
+        format: "h3"
+        contents:
+          - formal_definition
+          - practical_explanation
+          - examples
+      - term: "concetto_secondario"
+        format: "h3"
+        contents:
+          - formal_definition
+          - key_points
+
+  - name: "Concetti Chiave"
+    format: "h2"
+    include_:
+      - relationships
+      - differences
+      - classifications
+
+  - name: "Applicazioni Pratiche"
+    format: "h2"
+    subsections:
+      - category
+      - examples
+
+  - name: "Prossimi Argomenti"
+    format: "h2"
+    type: "wikilinks"
+    format: "list"
+
+# PATTERN DI FORMATTAZIONE
+formatting:
+  callout_info: "> [!info] Definizione\n>"
+  callout_note: "> [!note]\n>"
+  callout_example: "> [!example]\n>"
+  callout_warning: "> [!warning]\n>"
+  callout_danger: "> [!danger]\n>"
+  callout_tip: "> [!tip]\n>"
+  bold_emphasis: "**"
+  highlight: "=="
