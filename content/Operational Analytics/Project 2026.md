@@ -224,12 +224,12 @@ Da evitare:
 ## Collegamenti ai Moduli Utili
 
 Moduli direttamente collegati al progetto:
-- [[01. Predictive Analytics|Predictive Analytics]] - inquadramento del forecasting e del processo predittivo.
-- [[02. Predictive Data Preprocessing|Predictive Data Preprocessing]] - preparazione dei dati, trasformazioni e gestione delle variabili.
-- [[03. Predictive Statistical Models|Predictive Statistical Models]] - AR, ARMA, ARIMA, SARIMA, SARIMAX, Holt-Winters e theta.
-- [[04. Predictive Neural Models|Predictive Neural Models]] - MLP, LSTM e modelli neurali per serie temporali.
-- [[05. Predictive Machine Learning Models|Predictive Machine Learning Models]] - modelli tree-based come random forest e XGBoost.
-- [[06. Statistics Descriptive|Statistics Descriptive]] - analisi esplorativa e descrizione dei dati.
-- [[07. Statistics Inferential|Statistics Inferential]] - confronto statistico e interpretazione dei risultati.
+- [[Operational Analytics/01. Predictive Analytics|Predictive Analytics]] - inquadramento del forecasting e del processo predittivo.
+- [[Operational Analytics/02. Predictive Data Preprocessing|Predictive Data Preprocessing]] - preparazione dei dati, trasformazioni e gestione delle variabili.
+- [[Operational Analytics/03. Predictive Statistical Models|Predictive Statistical Models]] - AR, ARMA, ARIMA, SARIMA, SARIMAX, Holt-Winters e theta.
+- [[Operational Analytics/04. Predictive Neural Models|Predictive Neural Models]] - MLP, LSTM e modelli neurali per serie temporali.
+- [[Operational Analytics/05. Predictive Machine Learning Models|Predictive Machine Learning Models]] - modelli tree-based come random forest e XGBoost.
+- [[Operational Analytics/06. Statistics Descriptive|Statistics Descriptive]] - analisi esplorativa e descrizione dei dati.
+- [[Operational Analytics/07. Statistics Inferential|Statistics Inferential]] - confronto statistico e interpretazione dei risultati.
 
 ---

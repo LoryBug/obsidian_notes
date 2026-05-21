@@ -222,10 +222,10 @@ Il ricevimento è indicato come opportunità per chiarire la teoria e ricevere s
 ## Prossimi Argomenti
 
 Continueremo con i moduli di processo più utili per costruire l'elaborato:
-- [[Scoping e Initiating|Scoping/Initiating]] - definizione dell'ambito e impostazione iniziale del progetto.
-- [[Planning|Planning]] - pianificazione delle attività e dei deliverable.
-- [[Execution|Launching/Execution]] - avvio e conduzione operativa del progetto.
-- [[Monitoring and Controlling|Monitoring & Controlling]] - controllo dell'avanzamento e gestione degli scostamenti.
-- [[Closing|Closing]] - chiusura e consolidamento dei risultati.
+- [[Project Management/06. Scoping Process Group|Scoping/Initiating]] - definizione dell'ambito e impostazione iniziale del progetto.
+- [[Project Management/07. Planning Process Group|Planning]] - pianificazione delle attività e dei deliverable.
+- [[Project Management/05. Definizione dei Processi|Launching/Execution]] - avvio e conduzione operativa del progetto.
+- [[Project Management/09. Monitoring and Controlling Process Group|Monitoring & Controlling]] - controllo dell'avanzamento e gestione degli scostamenti.
+- [[Project Management/10. Closing Process Group|Closing]] - chiusura e consolidamento dei risultati.
 
 ---
